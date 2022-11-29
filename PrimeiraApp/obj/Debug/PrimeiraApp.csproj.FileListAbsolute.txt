@@ -1,0 +1,11 @@
+C:\Users\rafael.osantos25\Documents\Visual Studio 2019\ProjetoTi106-App\PrimeiraApp\bin\Debug\PrimeiraApp.exe.config
+C:\Users\rafael.osantos25\Documents\Visual Studio 2019\ProjetoTi106-App\PrimeiraApp\bin\Debug\PrimeiraApp.exe
+C:\Users\rafael.osantos25\Documents\Visual Studio 2019\ProjetoTi106-App\PrimeiraApp\bin\Debug\PrimeiraApp.pdb
+C:\Users\rafael.osantos25\Documents\Visual Studio 2019\ProjetoTi106-App\PrimeiraApp\obj\Debug\PrimeiraApp.csproj.AssemblyReference.cache
+C:\Users\rafael.osantos25\Documents\Visual Studio 2019\ProjetoTi106-App\PrimeiraApp\obj\Debug\PrimeiraApp.Properties.Resources.resources
+C:\Users\rafael.osantos25\Documents\Visual Studio 2019\ProjetoTi106-App\PrimeiraApp\obj\Debug\PrimeiraApp.csproj.GenerateResource.cache
+C:\Users\rafael.osantos25\Documents\Visual Studio 2019\ProjetoTi106-App\PrimeiraApp\obj\Debug\PrimeiraApp.csproj.CoreCompileInputs.cache
+C:\Users\rafael.osantos25\Documents\Visual Studio 2019\ProjetoTi106-App\PrimeiraApp\obj\Debug\PrimeiraApp.exe
+C:\Users\rafael.osantos25\Documents\Visual Studio 2019\ProjetoTi106-App\PrimeiraApp\obj\Debug\PrimeiraApp.pdb
+C:\Users\rafael.osantos25\Documents\Visual Studio 2019\ProjetoTi106-App\PrimeiraApp\obj\Debug\PrimeiraApp.frmPrimeiroPrograma.resources
+C:\Users\rafael.osantos25\Documents\Visual Studio 2019\ProjetoTi106-App\PrimeiraApp\obj\Debug\PrimeiraApp.frmLogin.resources
